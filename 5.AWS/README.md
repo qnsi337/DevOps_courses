@@ -1,2 +1,1 @@
-# Put header here
-Put description here
+Add solutions tasks part_1 with 5.AWS
