@@ -19,6 +19,7 @@ Oleg Vlaskin - My telegram: @qnsi337
 +part_1(1-8)
 
 #Process сompleting 6.Cloudformation-Terraform
++task_1 CloudFormation
 
 #Process сompleting 7.Azure
 
