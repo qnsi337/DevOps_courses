@@ -1,27 +1,35 @@
 # Working...
 Oleg Vlaskin - My telegram: @qnsi337
 
-#Process сompleting task 1.Containers-VMs
+# Process сompleting task 1.Containers-VMs
+
 +1.1.Vagrant+Packer 
+
 +1.2.Docker 
+
 +1.3.Kubernetes 
 
-#Process сompleting 2.Jenkins-TeamCity
+# Process сompleting 2.Jenkins-TeamCity
+
 +staging
 
-#Process сompleting 3.Ansible 
+# Process сompleting 3.Ansible 
+
 +ab-haproxy
 
-#Process сompleting 4.Linux
+# Process сompleting 4.Linux
+
 +all
 
-#Process сompleting 5.AWS
+# Process сompleting 5.AWS
+
 +part_1(1-8)
 
-#Process сompleting 6.Cloudformation-Terraform
+# Process сompleting 6.Cloudformation-Terraform
+
 +task_1 CloudFormation
 
-#Process сompleting 7.Azure
+# Process сompleting 7.Azure
 
-#Process сompleting 8.Extras
+# Process сompleting 8.Extras
 
