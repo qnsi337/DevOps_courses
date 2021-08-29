@@ -1,2 +1,2 @@
-# Put header here
-Put description here
+add solutions task 1-3,5 in Azure
+branch azure
