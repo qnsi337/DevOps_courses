@@ -32,6 +32,13 @@ Oleg Vlaskin - My telegram: @qnsi337
 +task_2 Terraform
 
 # Process сompleting 7.Azure
++task 1
+
++task 2
+
++task 3
+
++task 5
 
 # Process сompleting 8.Extras
 
