@@ -19,7 +19,7 @@ Oleg Vlaskin - My telegram: @qnsi337
 
 # Process сompleting 4.Linux
 
-+all
++all except 1.2.2 - 1.2.4
 
 # Process сompleting 5.AWS
 
@@ -43,4 +43,3 @@ Oleg Vlaskin - My telegram: @qnsi337
 # Process сompleting 9.Extras
 
 +task 1-5
-//
