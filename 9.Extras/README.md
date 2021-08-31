@@ -1,8 +1,8 @@
-add solutions tasks 1-5 in Extras
+Add solutions tasks 1-5
 
 Task 1
 ![1](https://user-images.githubusercontent.com/87652147/131554043-75801f52-b711-4195-b6eb-d829de4631a8.png)
-Task 2
+Task 2 + bash.sh file 
 ![2](https://user-images.githubusercontent.com/87652147/131554047-e68f27cb-c815-40a0-85a3-326313211a55.png)
 Task 3 
 ![3](https://user-images.githubusercontent.com/87652147/131554048-35694ae4-6d8a-41ed-acd5-70318f175154.png)
